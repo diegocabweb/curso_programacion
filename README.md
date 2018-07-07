@@ -1,7 +1,7 @@
 Curso Programación
 =========
 
-![Image](tux_1.jpg)
+![Image](https://github.com/diegocabweb/curso_programacion/blob/master/tux_1.JPG)
 
 ---
 
