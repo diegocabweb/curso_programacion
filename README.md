@@ -19,12 +19,12 @@ Dentro del aprendizaje de HTML se muestra un ejemplo, representado en un perfil.
 
 3. **Module Desk**
 
-En esta actividad se realiza la clonación de la pagina A [link](http://modulosdesk.com).
+En esta actividad se realiza la clonación de la pagina [modulosdesk.com](http://modulosdesk.com).
 
 4. **Gol**
 
-
+Se realiza una animación en hacer un gol
 
 5. **Mostrar partidos**
 
-
+Con respecto a un archivo de datos, se debe realizar un marcador utilizando las banderas de los paises.
