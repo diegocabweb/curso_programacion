@@ -9,7 +9,7 @@ Curso Programación
 
 A continuación aparecen las actividades (tareas) realizadas:
 
-1. Prototipado
+1. **bold** Prototipado
 
 En este incluye el Sketch (representación gráfica en papel) y el Mockup (representación gráfica en equipo) de una aplicación. En este caso se realiza en una solución de tráfico.
 
