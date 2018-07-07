@@ -1,6 +1,8 @@
 Curso Programación
 =========
 
+![Image](tux_1.jpg)
+
 ---
 
 ## Carpetas actividades
